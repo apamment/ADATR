@@ -4,6 +4,7 @@ extern "C" {
 #include <vector>
 #include <unistd.h>
 #include <ctime>
+#include <string>
 #include "sqlite3.h"
 #include "Game.h"
 #include "Horse.h"
